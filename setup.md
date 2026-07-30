@@ -12,15 +12,16 @@ https://nicolazordan.github.io/zordan.dev
 https://zordan.dev
 
 ### setup custom domain: zordan.dev
-- donain zordan.net is handles in SquareSpace
+- domain zordan.net is handles in SquareSpace
 - the DNS server are set to ns1.a2hosting.com  
 for Hosting.com, where email and other settings are hosted
 - at Hosting.com change the DNS records for zordan.dev
 
-Changes
+Changes:  
 - old.zordan.dev.	14400	A	
 68.66.216.7
-added:
+
+Added:
 - zordan.dev.	14400	A	
 - 185.199.108.153
 zordan.dev.	14400	A	
@@ -40,7 +41,7 @@ nicolazordan.github.io
 - Deploy rom Branch: main
 - Custom Domain (click save): zordan.net
 
-### error received from GitBuh about DNS not setup correctly
+### error received from GitHub about DNS not setup correctly
 the domain gives an error
 ```
 Both zordan.dev and its alternate name are improperly configured
