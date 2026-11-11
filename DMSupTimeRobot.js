@@ -59,7 +59,7 @@ async function createEmailUTR() {
 }
 
 // Button Example
-document.getElementById("sendEmailBtn")
-    .addEventListener("click", createEmailUTR);
+// document.getElementById("sendEmailBtn")
+//     .addEventListener("click", createEmailUTR);
 
     
